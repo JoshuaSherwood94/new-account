@@ -36,8 +36,6 @@ public class App {
 		 em.close();
 		 emf.close();*/
 
-	
-
 	}
 
 }
